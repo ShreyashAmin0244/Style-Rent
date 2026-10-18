@@ -1,0 +1,6 @@
+{
+  "name": "Style-Rent - Online Clothing & Ethnic Rental Platform",
+  "description": "A modern Indian clothing rental web platform for weddings, parties, and college events featuring smart availability calendars, operational buffers, backup sizing, and return logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
